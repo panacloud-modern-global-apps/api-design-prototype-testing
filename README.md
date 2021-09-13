@@ -1,4 +1,4 @@
-# API Designing, Prototyping, and Testing: Everything must and will be transformed into an Application Programming Interface (API). 
+# API Designing, Prototyping, and Testing: Everything must and will be transformed into an Application Programming Interface (API)
 
 Everything must and will be transformed into an Application Programming Interface (API). Every digital and physical asset and item on the globe must be controlled and communicated with. To make this happen, we need to make every digital asset programmable, thereby turning everything into an API. The world is on track to have a trillion programmable endpoints in the near future. 
 
@@ -12,7 +12,7 @@ This learning repo is part of [Bootcamp 2021](https://panacloud.github.io/bootca
 
 You can follow a number of differnt workflows in developing an API.
 
-We suggest that you should follow this workflow when designing and developing an API and a application:
+We suggest that you should follow this workflow when designing and developing an API and an application:
 
 1. Start by [define an API specification](https://learning.postman.com/docs/designing-and-developing-your-api/defining-an-api/) (Step 04)
 2. [Generate a collection](https://learning.postman.com/docs/designing-and-developing-your-api/defining-an-api/#generating-a-collection) from it.
