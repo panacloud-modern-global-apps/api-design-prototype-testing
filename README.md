@@ -18,6 +18,7 @@ We suggest that you should follow this workflow when designing and developing an
 4. Your UI Application team can now start developing an UI application by using the mock server.
 5. Your API developing team can now start developing the actual API implementation in the parallel to the UI application. There are many options, we recommend that you do develop serverless APIs. In case of REST implementation by using [AWS Gateway and Lambda Functions](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step01_hello_lambda) and GrpahQL using [AWS App Sync and Lambda Functions](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step03_appsync_lambda_as_datasource) using AWS CDK in TypeScript.
 6. Once the API implementation and development implementation is complete you can change the URL in your UI application and test collections from the mock URL to the implementation URL.
+7. During development you can run collections on the command line with [Newman](https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/) and integrate it with your CI/CD e.g. [Google Actions](https://github.com/marketplace/actions/newman-cli-postman-action).
 
 Note:
 
