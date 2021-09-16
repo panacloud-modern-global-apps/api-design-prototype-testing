@@ -1,5 +1,15 @@
 # Use-Case Driven QraphQL API Design and Testing
 
+[A Guide to API-First Design](https://nordicapis.com/a-guide-to-api-first-design/)
+
+[Design Thinking and Wicked Problems for APIs](https://dzone.com/articles/design-thinking-and-wicked-problems-for-apis)
+
+[Design Strategy for APIs](https://uxplanet.org/design-strategy-for-apis-581849a821a)
+
+[How Design Thinking Can Make Your Good API Amazing](https://www.programmableweb.com/news/how-design-thinking-can-make-your-good-api-amazing/sponsored-content/2018/10/24)
+
+[Design Thinking and API Design](https://medium.com/capital-one-tech/experimental-api-strategy-from-capital-one-be72db15362)
+
 [What is Design Thinking and Why Is It So Popular?](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular)
 
 [Use Case And Use Case Testing Complete Tutorial](https://www.softwaretestinghelp.com/use-case-testing/)
