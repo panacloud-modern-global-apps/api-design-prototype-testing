@@ -4,6 +4,10 @@
 
 [Design Thinking and Wicked Problems for APIs](https://dzone.com/articles/design-thinking-and-wicked-problems-for-apis)
 
+[What Is an API-as-a-Product?](https://nordicapis.com/what-is-an-api-as-a-product/)
+
+[Is Product Thinking the same as Design Thinking?](https://blog.axway.com/others/product-thinking-and-design-thinking)
+
 [Design Strategy for APIs](https://uxplanet.org/design-strategy-for-apis-581849a821a)
 
 [How Design Thinking Can Make Your Good API Amazing](https://www.programmableweb.com/news/how-design-thinking-can-make-your-good-api-amazing/sponsored-content/2018/10/24)
