@@ -1,4 +1,6 @@
-# API Testing and Development with Postman Book
+# Open API Testing and Development with Postman 
+
+[Design and Prototype an API](https://www.youtube.com/watch?v=r4kb3jOSsmk)
 
 Now we will go through the following Book in detail to fill the gap in our knowledge:
 
