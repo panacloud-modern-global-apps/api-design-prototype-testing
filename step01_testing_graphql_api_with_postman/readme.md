@@ -4,7 +4,7 @@
 
 GraphQL Hasura Server URL:
 
-https://hasura.io/learn/graphql
+https://hasura.io/learn/graphql/graphiql
 
 [First, go to Hasura to Explore](https://hasura.io/learn/graphql/graphiql)
 
