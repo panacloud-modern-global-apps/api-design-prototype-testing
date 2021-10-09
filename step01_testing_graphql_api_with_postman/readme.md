@@ -4,7 +4,7 @@
 
 GraphQL Hasura Server URL:
 
-https://hasura.io/learn/graphql
+https://hasura.io/learn/graphql/graphiql
 
 [First, go to Hasura to Explore](https://hasura.io/learn/graphql/graphiql)
 
@@ -27,3 +27,7 @@ https://hasura.io/learn/graphql
 Additional Watching:
 
 [GraphQL in Postman Demo](https://www.youtube.com/watch?v=7pUbezVADQs)
+
+## Project
+
+[Todo project](https://github.com/panacloud/bootcamp-2021#project-5-develop-todo-qraphql-api-on-aws)

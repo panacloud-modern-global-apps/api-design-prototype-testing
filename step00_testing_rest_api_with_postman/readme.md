@@ -26,3 +26,7 @@ Documentation:
 
 [Grouping requests in collections](https://learning.postman.com/docs/sending-requests/intro-to-collections/)
 
+## Project
+
+[Simple Book API](https://github.com/panacloud/bootcamp-2021#project-4-develop-simple-book-api-on-aws)
+
