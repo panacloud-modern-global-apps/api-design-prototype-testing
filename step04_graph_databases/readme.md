@@ -1,4 +1,10 @@
-# 
+# Graph Database
+
+## Introduction
+
+[Graph Databases for Dummies Book](https://neo4j.com/graph-databases-for-dummies/)
+
+## In Depth
 
 [GraphQL and Graph Databases](https://datalanguage.com/blog/graphql-and-graph-databases)
 
