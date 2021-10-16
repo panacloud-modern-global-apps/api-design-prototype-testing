@@ -4,6 +4,8 @@
 
 [Graph Databases for Dummies Book](https://neo4j.com/graph-databases-for-dummies/)
 
+[Introduction to Cypher](https://neo4j.com/developer/cypher/intro-cypher/)
+
 [Follow this Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step45a_neptune_cypher_gql)
 
 ## In Depth
