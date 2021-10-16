@@ -4,6 +4,8 @@
 
 [Graph Databases for Dummies Book](https://neo4j.com/graph-databases-for-dummies/)
 
+[Follow this Repo](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk/tree/main/step45a_neptune_cypher_gql)
+
 ## In Depth
 
 [GraphQL and Graph Databases](https://datalanguage.com/blog/graphql-and-graph-databases)
