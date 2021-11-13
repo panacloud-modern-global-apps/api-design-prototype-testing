@@ -40,9 +40,7 @@ CockroachDB Serverless runs on all three major cloud platforms, without requirin
 
 [Using the DBeaver Client to Run SQL Commands](https://www.youtube.com/watch?v=xFv-TeIroV8)
 
-### PostgreSQL Serverless with Node.js, Typescript, and Sequelize 
-
-Reading Material:
+Additional Reading Material:
 
 [Build a Full-Stack Node.js App with CockroachDB Serverless](https://www.cockroachlabs.com/blog/full-stack-node-app/)
 
